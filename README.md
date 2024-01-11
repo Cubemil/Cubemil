@@ -9,8 +9,8 @@
 - 📚 I'm currently working with Java, HTML/CSS/JS, Python, and learning C++ as of now.
 - I've always been passionate about computers, technology and complex software such as video games, and I hope I can pursue a career in this field.
 - More about me: 
-[![Linkedin](https://www.linkedin.com/in/emil-petersen-28053b282/)
-[![Discord](https://discordapp.com/users/259013014366322689)
+[Linkedin](https://www.linkedin.com/in/emil-petersen-28053b282/)
+[Discord](https://discordapp.com/users/259013014366322689)
 
 <br>
   

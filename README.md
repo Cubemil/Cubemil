@@ -5,7 +5,7 @@
 <h1>About me</h1>
 
 - 💻 I'am studying computer science in Germany.
-- 🔥 I'm currently working on a <a href="">RayTracer</a> project.
+- 🔥 I'm currently working on a <a href="github.com/Cubemil/RayTracer">RayTracer</a> project.
 - 📚 I'm currently working with Java, HTML/CSS/JS, Python, and learning C++ as of now.
 - I've always been passionate about computers, technology and complex software such as video games, and I hope I can pursue a career in this field.
 - More about me: 

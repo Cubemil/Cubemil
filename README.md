@@ -7,6 +7,7 @@
 - 💻 I'am studying computer science in Germany.
 - 🔥 I'm currently working on a various projects, mostly websites and a video game project as well :)
 - 📚 I'm mostly using Java, C#, the regular Frontend stack and Python.
+- I currently don't commit projects on this page, but I'm planning to mirror finished repos here
 - I've always been passionate about computers, technology and complex software such as video games, and I hope I can pursue a career in this field.
 - More about me: 
 [Linkedin](https://www.linkedin.com/in/emil-petersen-28053b282/) | 

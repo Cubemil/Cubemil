@@ -4,13 +4,12 @@
 <br>
 <h1>About me</h1>
 
-- 💻 I'am studying computer science in Germany.
-- 🔥 I'm currently working on a various projects, mostly websites and a video game project as well
-- 📚 I'm mostly writing Java, C#, VueJS and Python.
-- I currently don't commit projects on this page, but I'm planning to mirror finished repos here
+- 💻 studying computer science in Germany
+- 📚 using Java, C#, VueJS and Python
+- currently not actively committing projects on this page, but I'm planning to mirror finished repos here
 - I've always been passionate about computers, technology and complex software such as video games, and I hope I can pursue a career in this field.
 - More about me:
-[Linkedin](https://www.linkedin.com/in/emil-petersen-28053b282/) | 
+[Linkedin](https://www.linkedin.com/in/emil-petersen-28053b282/) |
 [Discord](https://discordapp.com/users/259013014366322689)
 
 <br>
@@ -18,7 +17,7 @@
 <h1>GitHub Stats 📊</h1>
  
 ![Cubemil's github stats](https://github-readme-stats.vercel.app/api?username=Cubemil&show_icons=true&theme=synthwave) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cubemil&theme=dracula)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cubemil&theme=synthwave)](https://git.io/streak-stats)  
 
 <hr>
   

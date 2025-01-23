@@ -7,7 +7,7 @@
 - 💻 Studying Computer Science in Germany
 - Working as a Programming Tutor and Agile Project Manager
 - Certified Scrum Master
-- 📚 Currently using Unity, Java, Vue, Express and Python
+- 📚 Currently working on projects using Unity, Java, Vue, Express and Python
 - Currently not actively committing projects on this page, but mirroring finished repos here
 - I've always been passionate about computers, technology and complex software such as video games, and hoping I can pursue a career in this field.
 - More about me:

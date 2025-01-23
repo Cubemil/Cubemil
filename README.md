@@ -5,6 +5,8 @@
 <h1>About me</h1>
 
 - 💻 studying computer science in Germany
+- working as a programming tutor and Agile project manager
+- certified Scrum Master
 - 📚 using C#, Java, Vue, Express and Python
 - currently not actively committing projects on this page, but mirroring finished repos here
 - I've always been passionate about computers, technology and complex software such as video games, and hoping I can pursue a career in this field.

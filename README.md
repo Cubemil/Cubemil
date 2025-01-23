@@ -21,7 +21,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,py,nodejs,vuejs,react,express,java,postgres,unity,cs,dotnet&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,linux,css,js,py,nodejs,vuejs,gradle,express,java,sqlite,pinia,npm,latex,electron,bash,androidstudio,docker,unity,stackoverflow,cs,dotnet&perline=8" />
   </a>
 </p>
   

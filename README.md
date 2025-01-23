@@ -5,11 +5,11 @@
 <h1>About me</h1>
 
 - 💻 studying computer science in Germany
-- 📚 using Java, C#, VueJS and Python
-- currently not actively committing projects on this page, but I'm planning to mirror finished repos here
-- I've always been passionate about computers, technology and complex software such as video games, and I hope I can pursue a career in this field.
+- 📚 using C#, Java, Vue, Express and Python
+- currently not actively committing projects on this page, but mirroring finished repos here
+- I've always been passionate about computers, technology and complex software such as video games, and hoping I can pursue a career in this field.
 - More about me:
-[Linkedin](https://www.linkedin.com/in/emil-petersen-28053b282/) |
+[LinkedIn](https://www.linkedin.com/in/emil-petersen-28053b282/) |
 [Discord](https://discordapp.com/users/259013014366322689)
 
 <br>
@@ -32,8 +32,6 @@
 
 <hr>
 
-
-
 [Cubemil](https://github.com/Cubemil)
 
-Last Edited on: 06/10/2024
+Last Edited on: 01/23/2025

@@ -9,7 +9,7 @@
 - Certified Scrum Master
 - 📚 Currently working on projects using Unity, Java, Vue, Express and Python
 - Currently not actively committing projects on this page, but mirroring finished repos here
-- I've always been passionate about computers, technology and complex software such as video games, and hoping I can pursue a career in this field.
+- I've always been passionate about computers, technology and complex software such as video games, and I hope I can pursue a career in this field.
 - More about me:
 [LinkedIn](https://www.linkedin.com/in/emil-petersen-28053b282/) |
 [Discord](https://discordapp.com/users/259013014366322689)

@@ -4,11 +4,11 @@
 <br>
 <h1>About me</h1>
 
-- 💻 studying computer science in Germany
-- working as a programming tutor and Agile project manager
-- certified Scrum Master
-- 📚 using C#, Java, Vue, Express and Python
-- currently not actively committing projects on this page, but mirroring finished repos here
+- 💻 Studying Computer Science in Germany
+- Working as a Programming Tutor and Agile Project Manager
+- Certified Scrum Master
+- 📚 Using C#, Java, Vue, Express and Python
+- Currently not actively committing projects on this page, but mirroring finished repos here
 - I've always been passionate about computers, technology and complex software such as video games, and hoping I can pursue a career in this field.
 - More about me:
 [LinkedIn](https://www.linkedin.com/in/emil-petersen-28053b282/) |

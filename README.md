@@ -13,6 +13,17 @@
 [Discord](https://discordapp.com/users/259013014366322689)
 
 <br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,py,nodejs,vuejs,react,express,java,postgres,unity,cs,dotnet&perline=8" />
+  </a>
+</p>
   
 <h1>GitHub Stats 📊</h1>
  
@@ -20,7 +31,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cubemil&theme=synthwave)](https://git.io/streak-stats)  
 
 <hr>
-  
+
+
+
 [Cubemil](https://github.com/Cubemil)
 
 Last Edited on: 06/10/2024
